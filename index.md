@@ -2,7 +2,7 @@
 # Shital Giri
 
 ## My GitHub
-(https://github.com/shitalgiri)
+[Github](https://github.com/shitalgiri)
 
 ## Find my websites here
 
